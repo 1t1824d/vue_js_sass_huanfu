@@ -1,4 +1,4 @@
-# 22
+# vue_js_sass_huanfu换肤（结合vue中的vuex和css的变量var()读取） 
 
 > A Vue.js project
 
