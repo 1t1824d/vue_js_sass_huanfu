@@ -1,5 +1,4 @@
 # vue_js_sass_huanfu换肤（结合vue中的vuex和css的变量var()读取） 
->预览页地址：https://volodya-01.github.io/vue_js_sass_huanfu_preview/
 
 ## Build Setup
 
